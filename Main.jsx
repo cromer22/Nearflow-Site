@@ -4,6 +4,6 @@ postcss.config.cjs
 tailwind.config.cjs
 vite.config.js
 src/
-  main.jsx
+  Main.jsx
   App.jsx
   index.css
