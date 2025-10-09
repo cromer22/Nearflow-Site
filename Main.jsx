@@ -1,9 +1,0 @@
-index.html
-package.json
-postcss.config.cjs
-tailwind.config.cjs
-vite.config.js
-src/
-  Main.jsx
-  App.jsx
-  index.css
